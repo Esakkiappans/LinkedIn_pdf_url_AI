@@ -24,11 +24,6 @@ git clone https://github.com/your_username/your_project.git
 cd your_project
 pip install -r requirements.txt
 
-
-Sure, here's how you can format your README.md file with headings and content:
-
-markdown
-Copy code
 # Project Title
 
 ## Description
