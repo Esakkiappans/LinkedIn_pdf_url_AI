@@ -1,8 +1,6 @@
 # LinkedIn_pdf_url_AI
 A Streamlit-based application for extracting, analyzing, and visualizing data from LinkedIn profiles, PDF documents, and URLs, powered by natural language processing and machine learning.
 
-# Project Title
-
 ## Description
 
 Briefly describe what your project does and its purpose.
@@ -24,9 +22,9 @@ git clone https://github.com/your_username/your_project.git
 cd your_project
 pip install -r requirements.txt
 
-dass
 
-#Descriiption
+
+## Descriiption
 
 
 Briefly describe what your project does and its purpose.
